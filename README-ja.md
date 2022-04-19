@@ -10,7 +10,7 @@
 - WordPressのコンテナイメージは公式ベース
 - 永続化領域はMySQLとStorageに保存
 
-![infra](docs/wordpress.png)
+![infra](docs/wordpress-azure.png)
 
 ## 使い方
 

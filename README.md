@@ -10,7 +10,7 @@
 - WordPress container image is official base.
 - Persistent areas are stored in MySQL and Storage
 
-![infra](docs/wordpress.png)
+![infra](docs/wordpress-azure.png)
 
 ## How to use
 
